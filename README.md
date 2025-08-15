@@ -1,0 +1,1 @@
+This program provides the solutions to all 40 current levels of Tilty Tokens (https://www.roblox.com/games/15675702/Tilty-Tokens). You can choose which level to solve and change the files if you like. You are also given the option to let the solver do the moves for you.
